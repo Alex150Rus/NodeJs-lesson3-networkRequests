@@ -1,0 +1,30 @@
+{
+  "name": "lesson3-networkrequests",
+  "version": "1.0.0",
+  "description": "network requests on Node.js",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex150Rus/lesson3-networkRequests.git"
+  },
+  "keywords": [
+    "network",
+    "requests",
+    "on",
+    "node.Js"
+  ],
+  "author": "Alex Medvedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex150Rus/lesson3-networkRequests/issues"
+  },
+  "homepage": "https://github.com/Alex150Rus/lesson3-networkRequests#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "nodemailer": "^5.1.1",
+    "request": "^2.88.0"
+  }
+}
